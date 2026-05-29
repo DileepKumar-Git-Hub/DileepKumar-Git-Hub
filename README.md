@@ -28,18 +28,6 @@
 |--------|-------------|-------|
 | [AI Job Application Tracker](https://github.com/DileepKumar-Git-Hub/AI-Job-Application-Tracker) | Track & analyze job applications with AI insights | React · JavaScript |
 | [Video Call App](https://github.com/DileepKumar-Git-Hub/video-call-app) | Real-time peer-to-peer video calling | HTML · WebRTC · JavaScript |
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DileepKumar-Git-Hub&show_icons=true&theme=dark&hide_border=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DileepKumar-Git-Hub&layout=compact&theme=dark&hide_border=true" height="150"/>
-</p>
-
----
-
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dileep-kumar-dornala)
