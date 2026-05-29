@@ -26,7 +26,6 @@
 
 | Project | Description | Stack |
 |--------|-------------|-------|
-| [SmartVision OCR Pro](https://github.com/DileepKumar-Git-Hub) | AI-powered text detection with dual OCR engine fusion, NLP correction & voice output | Flask · OpenCV · Tesseract · EasyOCR · React |
 | [AI Job Application Tracker](https://github.com/DileepKumar-Git-Hub/AI-Job-Application-Tracker) | Track & analyze job applications with AI insights | React · JavaScript |
 | [Video Call App](https://github.com/DileepKumar-Git-Hub/video-call-app) | Real-time peer-to-peer video calling | HTML · WebRTC · JavaScript |
 
