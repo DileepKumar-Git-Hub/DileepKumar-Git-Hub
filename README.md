@@ -26,7 +26,8 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [AI Job Application Tracker](https://github.com/DileepKumar-Git-Hub/AI-Job-Application-Tracker) | Track & analyze job applications with AI insights | React · JavaScript |
+| [Ecommerce multi-vendor app]([https://github.com/DileepKumar-Git-Hub/ecommerce-multi-vendor-support]) | Login from buyer & seller side , Dashboard for seller side, tracking order | React · Django |
+| [AI Job Application Tracker](https://github.com/DileepKumar-Git-Hub/AI-Job-Application-Tracker) | Track & analyze job applications with AI insights | React · Django |
 | [Video Call App](https://github.com/DileepKumar-Git-Hub/video-call-app) | Real-time peer-to-peer video calling application | HTML · WebRTC · JavaScript |
 
 ---
