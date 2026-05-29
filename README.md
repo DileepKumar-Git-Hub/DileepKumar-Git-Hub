@@ -25,17 +25,46 @@
 ## 🚀 Featured Projects
 
 | Project | Description | Stack |
-|--------|-------------|-------|
+|---------|-------------|-------|
 | [AI Job Application Tracker](https://github.com/DileepKumar-Git-Hub/AI-Job-Application-Tracker) | Track & analyze job applications with AI insights | React · JavaScript |
-| [Video Call App](https://github.com/DileepKumar-Git-Hub/video-call-app) | Real-time peer-to-peer video calling | HTML · WebRTC · JavaScript |
+| [Video Call App](https://github.com/DileepKumar-Git-Hub/video-call-app) | Real-time peer-to-peer video calling application | HTML · WebRTC · JavaScript |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DileepKumar-Git-Hub&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DileepKumar-Git-Hub&layout=compact&theme=dark&hide_border=true" height="150"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DileepKumar-Git-Hub&theme=dark&hide_border=true"/>
+</p>
+
+---
+
+## 🎯 About Me
+
+- 🎓 B.Tech CSE (AI/ML) — 3rd Year
+- 💼 2 Internships completed (Python/AI + Frontend)
+- 🔭 Currently building full-stack projects with **React + Django**
+- 🌱 Deepening skills in **REST APIs, PostgreSQL & AI integrations**
+- 🎯 Targeting **Python/Django & Full-Stack roles** at product companies & startups
+- 📍 Based in **Hyderabad, India**
+
+---
+
 ## 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/dileep-kumar-dornala)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:dornaladileepkumar9090909090@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/dillumonstar5969)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=flat&logo=facebook&logoColor=white)](https://www.facebook.com/monsterdileeepkumar.dornala)
 
 ---
 
 <p align="center">
-  ☕ Open to full-stack roles · Python/Django · React · Startups & Product Companies
+  ☕ Open to full-stack roles · Python/Django · React · Startups & Product Companies<br/>
+  <i>Let's build something great together!</i>
 </p>
