@@ -46,7 +46,7 @@
 
 ## 🎯 About Me
 
-- 🎓 B.Tech CSE (AI/ML) — 3rd Year
+- 🎓 B.Tech CSE (AI/ML) — 4rd Year
 - 💼 2 Internships completed (Python/AI + Frontend)
 - 🔭 Currently building full-stack projects with **React + Django**
 - 🌱 Deepening skills in **REST APIs, PostgreSQL & AI integrations**
